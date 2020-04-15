@@ -1,0 +1,5 @@
+/Users/nikita/Documents/GitHub/195ZavadskiyNikita/SR5/SR5/bin/Debug/SR5.exe
+/Users/nikita/Documents/GitHub/195ZavadskiyNikita/SR5/SR5/bin/Debug/SR5.pdb
+/Users/nikita/Documents/GitHub/195ZavadskiyNikita/SR5/SR5/obj/Debug/SR5.csprojAssemblyReference.cache
+/Users/nikita/Documents/GitHub/195ZavadskiyNikita/SR5/SR5/obj/Debug/SR5.exe
+/Users/nikita/Documents/GitHub/195ZavadskiyNikita/SR5/SR5/obj/Debug/SR5.pdb
